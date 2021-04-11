@@ -8,8 +8,6 @@ Incluye el uso de Base de datos **Postgres** (para conseguir persistencia)
 
 
 
-
-
 ## Stack Tecnológico
 
 * [Docker](https://www.docker.com/) - Tecnología de Contenedores/Containers
@@ -124,16 +122,6 @@ Verificar que parece como imagen Docker el nombre "88-community_sonarqube"
 
 
 
-
-
-### Docker Standalone
-
-N/A
-
-
-
-
-
 ## Uso
 
 
@@ -146,27 +134,3 @@ http://localhost:9000/
 ```
 
 Y login con : admin/admin
-
-
-
-
-
-## Pruebas
-
-N/A
-
-
-
-
-
-## Versionado
-
-**Nota :** [SemVer](http://semver.org/) es usado para el versionado.
-
-
-
-
-
-## Autores
-
-* **Víctor Madrid**
